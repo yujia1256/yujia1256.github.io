@@ -1,0 +1,51 @@
+/* Emergency readable defaults */
+body {
+    background-color: #eaffea;
+    color: #000;
+}
+
+/* Light test background for list-like pages (home included) */
+body.list {
+    background-color: #eaffea;
+    color: #000;
+}
+
+/* Keep dark mode untouched for contrast and readability */
+[data-theme="dark"] body.list {
+    background-color: var(--theme);
+}
+
+a,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+.post-title,
+.entry-content,
+.entry-header h2 {
+    color: #000;
+}
+
+/* Minimal serif typography with CJK-friendly fallbacks */
+body,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+.logo,
+.post-title,
+.post-content {
+    font-family: "Iowan Old Style", "Palatino Linotype", "Noto Serif SC", "Source Han Serif SC", "Songti SC", serif;
+}
+
+/* Preserve code readability with monospace font */
+code,
+pre,
+kbd,
+samp {
+    font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+}

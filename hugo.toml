@@ -1,0 +1,13 @@
+baseURL = 'https://example.org/'
+languageCode = 'zh-cn'
+title = 'jidong的技术进阶之路'
+theme = "PaperMod"
+
+[params]
+[params.label]
+text = "jidong的技术进阶之路"
+
+[params.assets]
+disableHLJS = false
+customCSS = ["css/extended/custom.css"]
+
