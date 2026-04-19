@@ -1,7 +1,11 @@
-baseURL = 'https://example.org/'
+baseURL = '/'
 languageCode = 'zh-cn'
 title = 'jidong的技术进阶之路'
 theme = "PaperMod"
+
+[taxonomies]
+category = "categories"
+tag = "tags"
 
 [params]
 [params.label]
@@ -10,4 +14,15 @@ text = "jidong的技术进阶之路"
 [params.assets]
 disableHLJS = false
 customCSS = ["css/extended/custom.css"]
+
+[menu]
+[[menu.main]]
+name = "分类"
+url = "categories/"
+weight = 10
+
+[[menu.main]]
+name = "标签"
+url = "tags/"
+weight = 20
 
