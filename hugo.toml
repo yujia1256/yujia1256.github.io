@@ -1,6 +1,6 @@
-baseURL = '/'
+baseURL = 'https://yujia1256.github.io/'
 languageCode = 'zh-cn'
-title = 'jidong的技术进阶之路'
+title = 'jidong的网络之路'
 theme = "PaperMod"
 
 [taxonomies]
@@ -8,8 +8,10 @@ category = "categories"
 tag = "tags"
 
 [params]
+defaultTheme = "light"
+env = "production"
 [params.label]
-text = "jidong的技术进阶之路"
+text = "jidong的网络之路"
 
 [params.assets]
 disableHLJS = false
