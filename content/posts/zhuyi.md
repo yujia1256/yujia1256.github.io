@@ -1,8 +1,8 @@
-+++
-date = '2026-04-19T13:25:44+08:00'
-draft = true
-title = 'Zhuyi'
-+++
+---
+date: '2026-04-19T13:25:44+08:00'
+draft: true
+title: 'Zhuyi'
+---
 hugo new posts/zhuyi.md
 这是终端新建文件的代码，
 要在浏览器中看到这个页面，首先要在终端cd my_blog
