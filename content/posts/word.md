@@ -12,6 +12,7 @@ braces                花括号
 eliminate               省略
 extremely common        极其常见
 entirely                  完全
+executable
 obscure.                 模糊
 parameter                 参数
 parentheses.              括号
