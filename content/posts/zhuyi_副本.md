@@ -44,3 +44,7 @@ hugo server -D
 当你写好了文章，准备让全世界看到时，通常有两种路线：
 1.走 GitHub Pages 路线： 把代码推送到 GitHub，利用 GitHub Actions 自动发布（最省心，不用管服务器）。
 2.走云服务器路线： 运行 hugo 命令生成静态文件，然后扔进你之前配置好的 Nginx 目录里。
+推送到云端的代码
+git add .
+git commit -m "继续加油"
+git push
