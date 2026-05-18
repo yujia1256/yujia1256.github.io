@@ -48,3 +48,6 @@ hugo server -D
 git add .
 git commit -m "继续加油"
 git push
+
+注意的一点就是今天我打算修改文章的标题，但是修改完成后，云端却没有改变
+问al，列出来许多的选项，指出的原因有可能是没有修改头部的 title

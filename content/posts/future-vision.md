@@ -1,7 +1,7 @@
 ---
 date: '2026-05-18T21:31:54+08:00'
 draft: false
-title: 'Futurevision'
+title: 'future-vision'
 ---
 这几天学英语的事情已经坚持了几天了
 目前的情况是这样的，我通过YouTube的几个英语频道学习，现在暂时就每天学习一个小时吧
