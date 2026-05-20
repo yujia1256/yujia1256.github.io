@@ -1,7 +1,7 @@
 ---
 date: '2026-04-19T13:25:44+08:00'
 draft: false
-title: 'Zhuyi'
+title: 'create-blog-method'
 ---
 hugo new posts/zhuyi.md
 这是终端新建文件的代码，
@@ -51,3 +51,5 @@ git push
 
 注意的一点就是今天我打算修改文章的标题，但是修改完成后，云端却没有改变
 问al，列出来许多的选项，指出的原因有可能是没有修改头部的 title
+
+还出现了一次deploy失败的情况，status：500，选择re-run failde jobs,重新部署就行了。
